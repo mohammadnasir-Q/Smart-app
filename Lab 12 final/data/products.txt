@@ -1,0 +1,25 @@
+Electronics,Laptop,1200.0,0
+Electronics,Smartphone,800.0,15
+Electronics,Tablet,500.0,20
+Electronics,Headphones,150.0,30
+Electronics,Smart Watch,250.0,25
+Clothing,T-Shirt,20.0,45
+Clothing,Jeans,50.0,40
+Clothing,Jacket,80.0,30
+Clothing,Sweater,40.0,35
+Clothing,Dress,60.0,25
+Groceries,Rice (1kg),5.0,100
+Groceries,Pasta,3.0,80
+Groceries,Milk,2.5,60
+Groceries,Bread,2.0,70
+Groceries,Eggs,3.5,50
+Home Decor,Lamp,45.0,20
+Home Decor,Cushion,15.0,40
+Home Decor,Vase,25.0,30
+Home Decor,Picture Frame,20.0,35
+Home Decor,Rug,75.0,15
+Books,Fiction Novel,15.0,44
+Books,Cookbook,25.0,29
+Books,Biography,18.0,40
+Books,Self-Help,22.0,35
+Books,Academic,35.0,25
